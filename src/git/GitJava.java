@@ -3,8 +3,10 @@ package git;
 public class GitJava {
 
 	public void method1() {
+
 		System.out.println("Hi i sm in method1");
-	}
+
+
 	
 	public void method2() {
 		System.out.println("Hi i sm in method12");
