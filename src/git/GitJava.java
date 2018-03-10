@@ -6,7 +6,7 @@ public class GitJava {
 
 		System.out.println("Hi i sm in method1");
 
-
+	}
 	
 	public void method2() {
 		System.out.println("Hi i sm in method12");
